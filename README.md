@@ -1,1 +1,1 @@
-# MK
+# Skrypt posiada wtyczkę Pygame
